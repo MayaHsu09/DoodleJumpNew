@@ -49,7 +49,7 @@ Collisions occur when the character land on a platform. There are two collisions
 ### ***Game Over***
 When the character is unable to land on a platform or lands on a red platform, the character position and score are reset. This is done by setting the character to its inital position, turning gravity off and setting velocity to 0.
  
-![Reset](https://user-images.githubusercontent.com/29692869/148715739-02aa51d9-0718-4431-85af-0f8a2d357c3c.jpg)
+![End game 2](https://user-images.githubusercontent.com/29692869/148727529-0ca8c97f-b5a5-44fe-8f98-1b0c8a20b42f.jpg)
 
 ### ***Creating Objects***
 Objects are created individually or in arrays using loops.
