@@ -5,6 +5,7 @@
 
 `Doodly Jump` uses the space bar to start the game and the right and left arrow key to control the character. The objective is to play for as long as you can, 
 jumping off of platforms. However, if you jump on a red platform, you instantly lose the game. Each time you jump to a new platform, 5 points are added to the score. When you miss the platform and fall, your score and position is reset.  This game can be played by anyone and is very simple. Enjoy!
+
 Link to video of code explanation: https://drive.google.com/file/d/1XchqxIES104Rn5EmWwpZuCaTNjuQ-IgC/view?usp=sharing
 
  ![doodle](https://user-images.githubusercontent.com/29692869/148712423-0ca6cac4-67a4-40b6-9f73-1d3801277de5.gif)
